@@ -12,7 +12,7 @@ document.getElementById("login-form").addEventListener("submit", function (event
     window.location.href = "https://drive.google.com/drive/folders/1iygu2UdUSJA-F9nFDGkM_MWLSkMG2ub4?lfhs=2";
   } else if (username === "kurikulum" && password === "9955") {
     window.location.href = "https://drive.google.com/drive/folders/12USqLJc1oMjmgTVd3QO1LllpLwGBpb2i?lfhs=2";
-  } else if (username === "kesiswaan" && password === "0354") {
+  } else if (username === "kesiswaan" && password === "7788") {
     window.location.href = "https://drive.google.com/drive/folders/1Y9WtXGIHJNTIDnDFeiZzpuIX9u9sqYFY?lfhs=2";
   } else {
     alert("username atau password salah !");
